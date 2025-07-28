@@ -1,7 +1,7 @@
 {
-  "name": "com.crystar-package",
+  "name": "com.crystar-custom-attributes",
   "version": "1.0.0",
-  "displayName": "CryStar Package",
+  "displayName": "CryStar Custom Attributes",
   "description": "Unity向けのカスタム属性とPropertyDrawerコレクション。インスペクターの使いやすさを向上させる便利な属性を提供します。",
   "unity": "2022.3",
   "keywords": [
@@ -25,9 +25,9 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/M1zuki018/CryStar-Package",
-    "documentationUrl": "https://github.com/M1zuki018/CryStar-Package#readme",
-    "changelogUrl": "https://github.com/M1zuki018/CryStar-Package/blob/main/CHANGELOG.md"
+    "url": "https://github.com/M1zuki018/crystar-custom-attributes",
+    "documentationUrl": "https://github.com/M1zuki018/crystar-custom-attributes#readme",
+    "changelogUrl": "https://github.com/M1zuki018/crystar-custom-attributes/blob/main/CHANGELOG.md"
   },
   "license": "MIT"
 }

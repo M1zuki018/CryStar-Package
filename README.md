@@ -1,5 +1,3 @@
-# CryStar Studio
-
 # CryStar Custom Attributes
 
 Unity向けのカスタム属性とPropertyDrawerコレクション。インスペクターの使いやすさを大幅に向上させる便利な属性を提供します。
@@ -21,13 +19,13 @@ Unity向けのカスタム属性とPropertyDrawerコレクション。インス�
 3. 以下のURLを入力：
 
 ```
-https://github.com/your-username/crystar-custom-attributes.git
+https://https://github.com/M1zuki018/crystar-custom-attributes.git
 ```
 
 ### 特定のバージョンをインストール
 
 ```
-https://github.com/your-username/crystar-custom-attributes.git#v1.0.0
+https://https://github.com/M1zuki018/crystar-custom-attributes.git#v1.0.0
 ```
 
 ### manifest.jsonに直接追加
@@ -37,7 +35,7 @@ https://github.com/your-username/crystar-custom-attributes.git#v1.0.0
 ```json
 {
   "dependencies": {
-    "com.crystar.custom-attributes": "https://github.com/your-username/crystar-custom-attributes.git"
+    "com.crystar.custom-attributes": "https://github.com/M1zuki018/crystar-custom-attributes.git"
   }
 }
 ```
@@ -123,7 +121,7 @@ MIT License
 
 ## サポート
 
-Issue報告やフィードバックは[GitHubリポジトリ](https://github.com/your-username/crystar-custom-attributes)までお願いします。
+Issue報告やフィードバックは[GitHubリポジトリ](https://github.com/M1zuki018/crystar-custom-attributes)までお願いします。
 
 ## 変更履歴
 
