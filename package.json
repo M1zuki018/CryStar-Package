@@ -1,7 +1,7 @@
 {
-  "name": "com.crystar-custom-attributes",
+  "name": "com.crystar.custom-attributes",
   "version": "1.0.0",
-  "displayName": "CryStar Custom Attributes",
+  "displayName": "CryStar.Custom Attributes",
   "description": "Unity向けのカスタム属性とPropertyDrawerコレクション。インスペクターの使いやすさを向上させる便利な属性を提供します。",
   "unity": "2022.3",
   "keywords": [
