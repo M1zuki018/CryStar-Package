@@ -1,0 +1,33 @@
+{
+  "name": "com.crystar-package",
+  "version": "1.0.0",
+  "displayName": "CryStar Package",
+  "description": "Unity向けのカスタム属性とPropertyDrawerコレクション。インスペクターの使いやすさを向上させる便利な属性を提供します。",
+  "unity": "2022.3",
+  "keywords": [
+    "attributes",
+    "inspector",
+    "editor",
+    "property-drawer",
+    "unity-tools"
+  ],
+  "author": {
+    "name": "CryStar Studio",
+    "email": "mizuki170817@gmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Usage Examples",
+      "description": "各属性の基本的な使用例とサンプルコード",
+      "path": "Samples~/BasicUsage"
+    }
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M1zuki018/CryStar-Package",
+    "documentationUrl": "https://github.com/M1zuki018/CryStar-Package#readme",
+    "changelogUrl": "https://github.com/M1zuki018/CryStar-Package/blob/main/CHANGELOG.md"
+  },
+  "license": "MIT"
+}
