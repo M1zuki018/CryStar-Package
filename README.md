@@ -19,13 +19,13 @@ Unity向けのカスタム属性とPropertyDrawerコレクション。インス�
 3. 以下のURLを入力：
 
 ```
-https://https://github.com/M1zuki018/crystar-custom-attributes.git
+https://github.com/M1zuki018/crystar-custom-attributes.git
 ```
 
 ### 特定のバージョンをインストール
 
 ```
-https://https://github.com/M1zuki018/crystar-custom-attributes.git#v1.0.0
+https://github.com/M1zuki018/crystar-custom-attributes.git#v1.0.0
 ```
 
 ### manifest.jsonに直接追加
